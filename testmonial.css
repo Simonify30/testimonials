@@ -64,7 +64,7 @@ body{
 section{
     border-radius: 0.5em;
     padding: 30px;
-    box-shadow: 20px 30px 25px hsl(217, 19%, 35%);
+    box-shadow: 12px 7px 20px 6px hsl(217, 19%, 35%);
 }
 
 header{
